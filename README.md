@@ -1,6 +1,6 @@
 # LegalAssist AI 🏛️⚖️
 
-![image]()
+![image](https://github.com/keerthanans2006/LEGAL-ASSIST-AI/blob/main/Screenshot%20(6).png?raw=true)
 
 An AI-powered legal assistant application built with Streamlit and Google's Gemini API.
 
