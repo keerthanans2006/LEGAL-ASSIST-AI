@@ -1,4 +1,3 @@
-# LEGAL-ASSIST-AI
 # LegalAssist AI 🏛️⚖️
 
 ![image]()
@@ -20,7 +19,7 @@ LegalAssist AI is a comprehensive legal assistance tool designed for lawyers, la
 - **IPC Search**: Search and navigate the Indian Penal Code with AI assistance
 - **Legal Research Assistant**: Get help with legal research questions and find relevant resources
 
-![sample]
+![sample](https://github.com/keerthanans2006/LEGAL-ASSIST-AI/blob/main/Screenshot%20(8).png?raw=true)
 
 ## Getting Started
 
